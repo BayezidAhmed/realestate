@@ -1,6 +1,7 @@
 
 
 
+
 $(document).ready(function(){
 
 
@@ -60,10 +61,7 @@ $(document).ready(function(){
           },
         ]
       });
-    //   counterup....
-    $('.counter').counterUp({
-        time: 4000
-    });
+  
     // team slider......
     $('.team-slide').slick({ 
         slidesToShow: 3,
@@ -148,6 +146,11 @@ $(document).ready(function(){
       ]
     });
   });
+    //   counterup....
+    $('.counter').counterUp({
+      time: 4000
+  });
+
 
   // back to top btn script start
 window.onscroll = function () {
@@ -170,6 +173,11 @@ function backToTop() {
   document.documentElement.scrollTop = 0;
 }
 // back to top script end
+
+
+ 
+
+  
 
 
  
