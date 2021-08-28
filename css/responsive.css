@@ -1,0 +1,220 @@
+
+@media only screen and (min-width:992px) and (max-width:1199px) {
+    
+}
+
+
+@media only screen and (min-width:767px) and (max-width:992px) {
+    .navbar-brand img {
+        width: 140px !important;
+        margin-top: -12px !important;
+    }
+    .navbar-light .navbar-nav .nav-item .nav-link{
+        font-size: 13px !important;
+    }
+    .banner-content h4 {
+        font-size: 30px !important;
+    }
+    .banner-content h1 {
+    font-size: 55px !important;
+    }
+    .priv_arrow_ban{
+        left: -3% !important;
+    }
+    .next_arrow_ban{
+        right: -3% !important;
+    }
+    .contact-bg h3{
+        font-size: 26px !important;
+    }
+    .contact-btn a{
+        padding: 11px 18px !important;
+    }
+    .video-bg{
+        padding: 300px 0  50px 0 !important;
+    }
+    .search-link{
+        top: 75% !important;
+        left: 10%  !important;
+    }
+    .search-link li {
+        height: 35px !important;
+        width: 35px !important;
+        padding: 5px !important;
+    }
+    .brand-bg .brand-hd-content{
+        padding-right: 0 !important;
+    }
+    .brand-hd-content h3{
+        font-size: 28px !important;
+    }
+    .brand-btn a{
+        padding: 12px 20px !important;
+    }
+    .brand-btn{
+        margin-top: 0 !important;
+    }
+
+}
+@media only screen and (min-width:569px) and (max-width:768px) {
+    .banner-content h4 {
+        font-size: 24px !important;
+    }
+    .banner-content h1 {
+        font-size: 42px !important;
+    }
+    .banner-content h5 {
+        font-size: 24px !important;
+    }
+    .contact-bg h3 {
+        font-size: 24px !important;
+    }
+    .contact-btn a {
+        padding: 15px !important;
+        font-size: 14px !important;
+    }
+    .video-bg{
+        padding: 300px 0 40px 0 !important;
+    }
+    .priv_arrow_ban{
+        left: -3% !important;
+    }
+    .next_arrow_ban{
+        right: -3% !important;
+    }
+    .testimonial-card{
+        width: 450px !important;
+    }
+    .priv_arrow_test{
+        right: 15% !important;
+    }
+    .next_arrow_test{
+        right: 15% !important;
+    }
+    .massage-form{
+        padding: 50px !important;
+    }
+    #address {
+        padding-top: 310px !important;
+    }
+    .navbar {
+        line-height: 30px !important;
+    }
+}
+@media only screen and (max-width:570px) {
+    .banner-content h4 {
+        font-size: 20px !important;
+    }
+    .banner-content h1 {
+        font-size: 36px !important;
+    }
+    .banner-content h5 {
+        font-size: 20px !important;
+    }
+    .banner-btn a {
+        padding: 10px 20px !important;
+        font-size: 16px !important;
+    }
+    .contact-bg{
+        padding: 40px !important;
+    }
+    .contact-bg h3 {
+        font-size: 20px !important;
+    }
+    .contact-btn a {
+        padding: 8px 15px !important;
+        font-size: 14px !important;
+    }
+    .contact-btn{
+        margin: 0 !important;
+        margin-top: 10px !important;
+    }
+    .about-bg .about-hd-content h3 {
+        font-size: 26px !important;
+    }
+    .video-bg{
+        padding:250px 0 40px 0 !important;
+    }
+    .service-bg .service-hd-content h3 {
+        font-size: 26px !important;
+    }
+    .service-bg .service-hd-content {
+        padding: 0px 15px !important;
+    }
+    .gallery-bg .gallery-hd-content {
+        padding: 0px 15px !important;
+    }
+    .gallery-bg .gallery-hd-content h3 {
+        font-size: 26px !important;
+    }
+    .counter-bg{
+        padding: 50px 0 !important;
+    }
+    .team-hd-content{
+        padding: 0 15px !important;
+    }
+    .team-hd-content h3 {
+        font-size: 26px !important;
+    }
+    .testimonial-card{
+        width: 100% !important ;
+    }
+    .slick-dots{
+        bottom: -40px !important;
+        text-align: center !important;
+    }
+    .brand-bg .brand-hd-content{
+        padding-right: 0 !important;
+    }
+    .brand-hd-content h3{
+        font-size: 26px !important;
+    }
+    .subscribe-bg {
+        padding: 70px 0 !important;
+    }
+    .subscribe-hd-content h3 {
+        font-size: 26px !important;
+    }
+    .subscribe-bg .email input {
+        width: 72% !important;
+    }
+    .subscribe-bg .email button{
+        width: 26% !important;
+        padding: 5px 0 !important;
+        font-size: 16px !important;
+    }
+    .price-hd-content h3{
+        font-size: 26px !important;
+    }
+    .news-hd-content{
+        padding: 0 !important;
+    }
+    .news-hd-content h3{
+        font-size: 26px !important;
+    }
+    .news-bg {
+        padding: 70px 0 70px 0 !important;
+    }
+    .massage-form {
+        top: 0px !important;
+        padding: 15px  !important;
+    }
+    .massage-form h3 {
+        font-size: 26px !important;
+        margin-bottom: 15px !important;
+    }
+    .massage-form input{
+        margin: 0!important;
+        margin-bottom: 15px !important;
+    }
+    .massage-bg{
+        background: none !important;
+    }
+    #address {
+        padding-top: 70px !important;
+    }
+    .navbar {
+        line-height: 30px !important;
+    }
+
+}
